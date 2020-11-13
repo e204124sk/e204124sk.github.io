@@ -1,0 +1,21 @@
+h1{
+    color: #ff5700;
+    text-align: center;
+    background-color:green;
+}
+h3{
+    text-align: center;
+    background-color:aquamarine;
+     color: blue;
+}
+h4{
+   color: purple;
+    text-align: center;
+    background-color:red; 
+}
+p{
+    color: aqua;
+}
+body{
+    background-image: url(../images/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2.jpg);
+}
